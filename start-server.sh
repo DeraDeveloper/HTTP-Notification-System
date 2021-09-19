@@ -1,0 +1,1 @@
+cd notification-service && mvn spring-boot:run
