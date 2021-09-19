@@ -1,1 +1,1 @@
-cd notification-service && mvn spring-boot:run
+cd notification-service && mvn compile spring-boot:run
